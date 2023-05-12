@@ -1,0 +1,4 @@
+First Create .env file in server side and give
+PORT = 5000
+MONGO_DB=MongoDB Cluster
+SECRET_KEY= Random Key
