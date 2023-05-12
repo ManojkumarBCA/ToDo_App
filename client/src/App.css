@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.Task{
+  background-color:lightgreen;
+  color: white;
+  text-align: center;
+  padding: 1%;
+  text-decoration: none;
+  border-radius: 5%;
+}
+
+.Task:hover{
+  background-color:olivedrab;
+}
+
+.status{
+  background-color: lightblue;
+}
